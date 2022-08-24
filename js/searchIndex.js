@@ -151,6 +151,11 @@ Search.appendIndex(
             "summary": "Is\u0020a\u0020Model\u0020the\u0020owner\u0020of\u0020this\u0020Model\u003F",
             "url": "classes/Envorra-LaravelSettings-Contracts-ModelOwnership.html#method_belongsToModel"
         },                {
+            "fqsen": "\\Envorra\\LaravelSettings\\Contracts\\ModelOwnership\u003A\u003AhasOwner\u0028\u0029",
+            "name": "hasOwner",
+            "summary": "Does\u0020the\u0020model\u0020have\u0020an\u0020owner\u003F",
+            "url": "classes/Envorra-LaravelSettings-Contracts-ModelOwnership.html#method_hasOwner"
+        },                {
             "fqsen": "\\Envorra\\LaravelSettings\\Contracts\\ModelOwnership\u003A\u003Aowner\u0028\u0029",
             "name": "owner",
             "summary": "Owner\u0020relation.",
@@ -551,11 +556,6 @@ Search.appendIndex(
             "summary": "Get\u0020the\u0020DataType\u0020for\u0020this\u0020Model.",
             "url": "classes/Envorra-LaravelSettings-Models-Setting.html#method_getDataType"
         },                {
-            "fqsen": "\\Envorra\\LaravelSettings\\Models\\Setting\u003A\u003AhasOwner\u0028\u0029",
-            "name": "hasOwner",
-            "summary": "Does\u0020this\u0020Model\u0020have\u0020an\u0020owner\u003F",
-            "url": "classes/Envorra-LaravelSettings-Models-Setting.html#method_hasOwner"
-        },                {
             "fqsen": "\\Envorra\\LaravelSettings\\Models\\Setting\u003A\u003AisAppSetting\u0028\u0029",
             "name": "isAppSetting",
             "summary": "Is\u0020this\u0020an\u0020App\u0020setting\u003F",
@@ -755,6 +755,11 @@ Search.appendIndex(
             "name": "belongsToModel",
             "summary": "",
             "url": "classes/Envorra-LaravelSettings-Traits-HasOwner.html#method_belongsToModel"
+        },                {
+            "fqsen": "\\Envorra\\LaravelSettings\\Traits\\HasOwner\u003A\u003AhasOwner\u0028\u0029",
+            "name": "hasOwner",
+            "summary": "",
+            "url": "classes/Envorra-LaravelSettings-Traits-HasOwner.html#method_hasOwner"
         },                {
             "fqsen": "\\Envorra\\LaravelSettings\\Traits\\HasOwner\u003A\u003AmorphTo\u0028\u0029",
             "name": "morphTo",
